@@ -1,4 +1,3 @@
-# kaggle_competitions
 ## Crab Age Data Prediction
 
 This project focuses on data cleaning and model training using the provided `train.csv` and `test.csv` files. The following steps were undertaken:
